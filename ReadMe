@@ -1,0 +1,19 @@
+To-Do App
+
+Descripción
+Esta aplicación permite la gestión de tareas mediante un sistema CRUD (Crear, Leer, Actualizar, Eliminar). 
+
+Funcionalidades
+- Agregar tareas
+- Eliminar tareas
+- Marcar tareas como completadas
+- Editar tareas
+
+Tecnologías
+- Backend: Django
+- Frontend: React
+
+Objetivo
+Crear una aplicación sencilla e intuitiva para gestionar tareas de manera eficiente.
+
+#Finalizado
